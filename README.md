@@ -1,5 +1,5 @@
 # AVrecordeR
-Audio and video recording using Python
+Audio and video recording using Python and ffmpeg
 
 branched from https://github.com/JRodrigoF/AVrecordeR
 
