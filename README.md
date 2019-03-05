@@ -17,6 +17,7 @@ Make also sure that you have ffmpeg installed or at least the executable like ff
 directory as your script is in.
 
 Required Python libraries: numpy, pyaudio, opencv-python
+
 Required external libraries: ffmpeg
 
 for your convenience a setup file is provided. Install it with
